@@ -1,0 +1,15 @@
+{
+  "name": "verbanent/theme",
+  "description": "Verbanent custom test theme",
+  "type": "magento2-theme",
+  "version": "1.0.0",
+  "license": "MIT",
+  "autoload": {
+    "files": [
+      "registration.php"
+    ]
+  },
+  "require": {
+    "php": ">=7.4"
+  }
+}
